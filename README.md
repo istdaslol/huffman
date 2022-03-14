@@ -12,10 +12,6 @@ huffman [options] \<filename\>
   -d for decompress
   Per default non is selectet, hence one of the above is needed
   
-### Level
- -l<1-9>  
-  WIP
-  
 ### Verbose
   -v to get a verbose output  
   You'll get a filesize of the in-and-output file and the time it took the programm to do the thing
