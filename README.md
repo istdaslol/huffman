@@ -18,9 +18,9 @@ huffman [options] \<filename\>
  
 ### Costum outlife-name
   As per default it appends a .hc for compressed and .hd for decompressed files.  
-  If you choose to have a different name you can spezify it via the  
-  -o   
-  option
+  If you choose to have a different name you can spezify it via 
+  -o [name]
+
   
 ### Help
  As by now only -h gives you the help in german.  
